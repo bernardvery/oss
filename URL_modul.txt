@@ -1,0 +1,4 @@
+Download modul praktek:
+-----------------------
+https://github.com/bernardvery/Genap1718
+folder: Open_source_System/praktek
